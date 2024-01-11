@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Lais Vitoria.
-- 🌱 I'm currently studying computer science.
+Eu sou a Lais Vitoria, estudante de ciência da computação.
+
+
 
 <!---
 Lais-Vitoria/Lais-Vitoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
