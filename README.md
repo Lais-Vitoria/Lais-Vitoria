@@ -1,4 +1,11 @@
-Eu sou a Lais Vitoria, estudante de ciência da computação.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
+
+## Eu sou a Lais Vitoria, estudante de ciência da computação.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lais-Vitoria&show_icons=true&theme=midnight-purple)
+
+
+
 
 
 
