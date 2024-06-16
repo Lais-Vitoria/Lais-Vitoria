@@ -3,6 +3,7 @@
 ## Olá!, me chamo Lais Vitoria, Gosto bastante de tecnologia e atualmente curso Ciência da Computação.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lais-Vitoria&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lais-Vitoria&layout=compact&theme=midnight-purple)
 
 <div>
  <a href="https://www.linkedin.com/in/lais-vitoria-0195631ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
