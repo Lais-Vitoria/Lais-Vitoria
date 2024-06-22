@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
 ## print("HELLO WORLD!")
+# Eu sou a Lais vitoria, Estudante na area de TI
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lais-Vitoria&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lais-Vitoria&layout=compact&theme=midnight-purple)
