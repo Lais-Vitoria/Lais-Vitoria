@@ -9,9 +9,10 @@
 
 ### 📊 Estatísticas do GitHub  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lais-Vitoria&show_icons=true&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lais-Vitoria&layout=compact&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Lais-Vitoria&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Lais-Vitoria&layout=compact&theme=midnight-purple"/>
 </div>
+
 
 ---
 
